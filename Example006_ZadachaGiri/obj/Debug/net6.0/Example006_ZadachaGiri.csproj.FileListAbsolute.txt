@@ -1,0 +1,15 @@
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\bin\Debug\net6.0\Example006_ZadachaGiri.exe
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\bin\Debug\net6.0\Example006_ZadachaGiri.deps.json
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\bin\Debug\net6.0\Example006_ZadachaGiri.runtimeconfig.json
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\bin\Debug\net6.0\Example006_ZadachaGiri.dll
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\bin\Debug\net6.0\Example006_ZadachaGiri.pdb
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\Example006_ZadachaGiri.csproj.AssemblyReference.cache
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\Example006_ZadachaGiri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\Example006_ZadachaGiri.AssemblyInfoInputs.cache
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\Example006_ZadachaGiri.AssemblyInfo.cs
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\Example006_ZadachaGiri.csproj.CoreCompileInputs.cache
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\Example006_ZadachaGiri.dll
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\refint\Example006_ZadachaGiri.dll
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\Example006_ZadachaGiri.pdb
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\Example006_ZadachaGiri.genruntimeconfig.cache
+C:\Users\Лана\Desktop\Lection1\NewProjectInLesson\Example006_ZadachaGiri\obj\Debug\net6.0\ref\Example006_ZadachaGiri.dll
