@@ -1,0 +1,15 @@
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\bin\Debug\net6.0\Example007_magic.exe
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\bin\Debug\net6.0\Example007_magic.deps.json
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\bin\Debug\net6.0\Example007_magic.runtimeconfig.json
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\bin\Debug\net6.0\Example007_magic.dll
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\bin\Debug\net6.0\Example007_magic.pdb
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\Example007_magic.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\Example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\Example007_magic.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\Example007_magic.AssemblyInfo.cs
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\Example007_magic.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\Example007_magic.dll
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\refint\Example007_magic.dll
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\Example007_magic.pdb
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\Example007_magic.genruntimeconfig.cache
+C:\Users\A\Desktop\Example\NewProjectInLesson\Example007_magic\obj\Debug\net6.0\ref\Example007_magic.dll
