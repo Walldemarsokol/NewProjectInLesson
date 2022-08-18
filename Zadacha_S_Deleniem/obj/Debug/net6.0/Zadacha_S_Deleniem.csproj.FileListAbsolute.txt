@@ -1,0 +1,15 @@
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\bin\Debug\net6.0\Zadacha_S_Deleniem.exe
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\bin\Debug\net6.0\Zadacha_S_Deleniem.deps.json
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\bin\Debug\net6.0\Zadacha_S_Deleniem.runtimeconfig.json
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\bin\Debug\net6.0\Zadacha_S_Deleniem.dll
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\bin\Debug\net6.0\Zadacha_S_Deleniem.pdb
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\Zadacha_S_Deleniem.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\Zadacha_S_Deleniem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\Zadacha_S_Deleniem.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\Zadacha_S_Deleniem.AssemblyInfo.cs
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\Zadacha_S_Deleniem.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\Zadacha_S_Deleniem.dll
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\refint\Zadacha_S_Deleniem.dll
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\Zadacha_S_Deleniem.pdb
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\Zadacha_S_Deleniem.genruntimeconfig.cache
+C:\Users\A\Desktop\Example\NewProjectInLesson\Zadacha_S_Deleniem\obj\Debug\net6.0\ref\Zadacha_S_Deleniem.dll
