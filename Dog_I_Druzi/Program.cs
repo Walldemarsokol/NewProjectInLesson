@@ -1,6 +1,6 @@
 ﻿int count = 0, distance = 10000,
-    firstFriendSpeed = 10,
-    secondFriendSpeed = 15,dogSpeed = 20,
+    firstFriendSpeed = 1,
+    secondFriendSpeed = 2,dogSpeed = 5,
     time = 0;
 int friend = 2;
 
